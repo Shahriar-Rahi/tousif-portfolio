@@ -1,68 +1,56 @@
 {
-	"Title": "Aditya Ketkar | Personal Webpage",
-	"Name": "Aditya Ketkar",
+	"Title": "Tousifur Rahman | Personal Webpage",
+	"Name": "Tousifur Rahman",
 	"Description": [
-		"Recent graduate from BITS Pilani. Passionate about Space Technology, Cognitive Modelling and Open Source.",
+		"Graduate from Bangladesh Army University of Engineering and Technology. Passionate about start ups, Supply Chain and Marketing.",
 		"I grab every chance I get to travel, learn and create."
 	],
 	"MainImage": "https://i.imgur.com/yQZNGdm.jpg",
 	"BackgroundURL": "",
 
-	"AboutImage": "https://i.imgur.com/5sOLND6.jpg",
+	"AboutImage": "#",
 	"AboutContent": [
-		"I’m a Computer Science major by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
-		"If you can’t find me, it’s because I’m already cycling, off to a hike, or studying for an exam",
-		"I am passionate about Space Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
+		"I’m a Electrical and Electronics major by day, a runner by evening, a functional enterpreneur by midnight and a hustler always.",
+		"If you can’t find me, it’s because I’m already into deep thinking, building something, or studying for an exam",
+		"I am passionate about Space Technology and Human Psychology (though, never studied them formally).",
 		"I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
 	],
 
 	"WorkContent": [
-		"I am currently full time Software Developer Engineer at Microsoft."
+		"I am currently looking for a job which will allow me to grow as a person"
 	],
-	"WorkImage": "https://i.imgur.com/BHt1YKg.png",
-	"InternshipsStartLine": "Previously, I have interned with :",
+	"WorkImage": "#",
+	"InternshipsStartLine": "Previously, I have worked at :",
 	"InternShips": [{
-			"name": "Amazon India",
+			"name": "Lab AR from 13 February,2019 to 17 February,2020 as Assistant Engineer (Planning and Development)",
 			"link": "#"
 		},
 		{
-			"name": "North-Eastern Space Application Center (ISRO)",
-			"link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
-		},
-		{
-			"name": "Computer Vision Center, Universitat Autonoma de Barcelona",
-			"link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
+			"name": "Bangladesh Power Development Board from 30 January,2018 to 26 February,2018 as Industrial Trainee",
+			"link": "#"
 		}
 	],
-	"ProjectsStartLine": "Some of the side projects I did can be found here :",
+	"ProjectsStartLine": "Some of the activites during university life",
 	"Projects": [{
-			"name": "EisenList",
-			"link": "https://github.com/adityaketkar/eisenlist"
+			"name": "Campus Ambassador at ISCEA,Bangladesh",
+			"link": "#"
 		},
 		{
-			"name": "DelOr",
-			"link": "https://bitsdelor.wixsite.com/delor"
-		},
-		{
-			"name": "Alexa Music Companion",
-			"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
-		},
-		{
-			"name": "Gatsby Personal Webpage",
-			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
+			"name": "Program Coordinator at Arduino Day Bangladesh-2017",
+			"link": "#"
 		}
 	],
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
-	"CV": "https://www.visualcv.com/aditya-ketkar/",
-	"Resume": "https://drive.google.com/file/d/1M1Vw1J7Yc3BFIgzJXX4_U-_nfIXCfK8n/view?usp=sharing",
+	"CV": "https://drive.google.com/file/d/1xH_kEPeRrspBM3nYtdL5RGyihEQ_bLrf/view?usp=sharing",
+	"Resume": "https://drive.google.com/file/d/1xH_kEPeRrspBM3nYtdL5RGyihEQ_bLrf/view?usp=sharing",
 
-	"emailid": "mailto:adityaketkar848@gmail.com",
-	"linkedin": "https://linkedin.com/in/adityaketkar",
-	"wordpress": "https://technoshblog.wordpress.com/",
-	"facebook": "https://www.facebook.com/aditya",
-	"github": "https://github.com/adityaketkar",
-	"instagram": "http://www.adityaketkar.me",
-	"twitter": "https://twitter.com/ketkar_a",
-	"medium": "https://medium.com/@ketkaraditya"
+	"emailid": "tousif.eee17@gmail.com",
+	"linkedin": "https://linkedin.com/in/",
+	"wordpress": "#",
+	"facebook": "https://www.facebook.com/tousif.rahman.17/",
+	"github": "#",
+	"instagram": "#",
+	"twitter": "#",
+	"medium": "#"
 }
